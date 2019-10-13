@@ -1,0 +1,21 @@
+11.06.2019 - basic layout 6h;
+14.06.2019 - displaying coordinates 3h;
+14.06.2019 - change Canvas sizes (2h)
+15.06.2019 - pen tool (basic) 5h
+16.06.2019 - alg Brezenchema  6h
+17.06.2019 - Eraser tool (3h)
+18.06.2019-20.06.2019 - Stroke tool (9h)
+20.06.2019 - Rectangle tool (2h)
+21.06.2019 - Circle tool (2h)
+22.06.2019 - Color Picker tool (2h), fix bug with removing images after drawing circle, rectange, stroke line (3h)
+23.06.2019 - Add ability to draw with secondary color (2h)
+24.06.2019-26.06.2019 - Webpack configuration. Change Project structure (16h)
+27.06.2019 - Add new Frame functionality (2h)
+28.06.2019 - Implement animation (2h), add ability to change FPS (0.45h)
+29.06.2019 - Add ability to delete frames (2h), fullscreen mode (1h)
+29.06.2019 - Export result as gif file (3h)
+29.06.2019 - Landing page (2h)
+30.06.2019 - configuration Webpack in order to add Landing page (8h)
+
+
+
